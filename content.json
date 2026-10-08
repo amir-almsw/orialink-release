@@ -1,8 +1,8 @@
 {
   "revision": "2026-10-08.1",
   "bundle": "Orialink-content-2026-10-08.1.zip",
-  "bundleBytes": 15539,
-  "bundleSha256": "d84a4a85e55833137877aa7a3ed5db0b76cbf176682162c7c25f97fea0b56645",
+  "bundleBytes": 12920,
+  "bundleSha256": "f1d0a3fb8a9ba778882abcc0d1553935bf30bdcaeac8c8013bb0b4841ef5623a",
   "bundleUrl": "https://github.com/amir-almsw/orialink-release/releases/download/content-2026-10-08.1/Orialink-content-2026-10-08.1.zip",
   "files": [
     {"path": "assets/samples/bank-statement-2026.xml", "bytes": 13628, "sha256": "14e8e270cf693996e915f7a3be16369124fb384b1c0276b2b2d50469ca25a8d3"},

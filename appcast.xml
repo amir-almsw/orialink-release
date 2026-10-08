@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Orialink</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 08 Oct 2026 22:50:14 +0200</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Thu, 08 Oct 2026 23:08:38 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="Ae7M2CLY4PA0a308lU1sXLtd9ZCdhthky7dO0mOWRTbvMOjrqs2IHbJrddWzSzbrYzjcqxFKzExaErPq9jkgBw==" sparkle:length="941">https://raw.githubusercontent.com/amir-almsw/orialink-release/main/Orialink-1.0.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/amir-almsw/orialink-release/releases/download/v1.0.0/Orialink-1.0.0.zip" length="19124666" type="application/octet-stream" sparkle:edSignature="VZJCkShWGm5IfzPCgzTI4IypBvZk1rFwCJueyE0gO5eCzegsHXq7c/UnqSBFanb055+MjVJ3d02J2+PldT3CCg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="Ll01PS07BN7PCwe54Vi/aFMEX/ShMlIGe8Xabs6tFv/7Ifvkba79/kv+fVNpJLNRpGEyX76CCgg9La24/gj2Aw==" sparkle:length="941">https://raw.githubusercontent.com/amir-almsw/orialink-release/main/Orialink-1.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/amir-almsw/orialink-release/releases/download/v1.1.0/Orialink-1.1.0.zip" length="19124659" type="application/octet-stream" sparkle:edSignature="ZXKIeu0AigecQNR5ydvEkadUu3gA/0BZ/XKptYUzhQ/bg0kDvTISZx2dGeX+PQPDfNkzYu57DYRI5ZgP6FOmAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wIqqR7j9nApc3nd+3nfL5Au59VRwSAOkK+MLh+ZLgon4QYaGRzdAy7/P0RDk1GSmveRa9CFfGzY2aY//rgQ1Ag==
+edSignature: DfwLd6ucSvgB9CD6Y/JooBASqi3hLl/tQAMedU90KJ7qvtWbdo74N5+T54x1QrgHKZAAG5xMnl/fCONVdmpUCQ==
 length: 1413
 -->
