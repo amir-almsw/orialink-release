@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Orialink</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 08 Oct 2026 22:50:14 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="Ae7M2CLY4PA0a308lU1sXLtd9ZCdhthky7dO0mOWRTbvMOjrqs2IHbJrddWzSzbrYzjcqxFKzExaErPq9jkgBw==" sparkle:length="941">https://raw.githubusercontent.com/amir-almsw/orialink-release/main/Orialink-1.0.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/amir-almsw/orialink-release/releases/download/v1.0.0/Orialink-1.0.0.zip" length="19124666" type="application/octet-stream" sparkle:edSignature="VZJCkShWGm5IfzPCgzTI4IypBvZk1rFwCJueyE0gO5eCzegsHXq7c/UnqSBFanb055+MjVJ3d02J2+PldT3CCg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: wIqqR7j9nApc3nd+3nfL5Au59VRwSAOkK+MLh+ZLgon4QYaGRzdAy7/P0RDk1GSmveRa9CFfGzY2aY//rgQ1Ag==
+length: 1413
+-->

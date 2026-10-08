@@ -1,0 +1,23 @@
+{
+  "revision": "2026-10-08.1",
+  "bundle": "Orialink-content-2026-10-08.1.zip",
+  "bundleBytes": 15539,
+  "bundleSha256": "d84a4a85e55833137877aa7a3ed5db0b76cbf176682162c7c25f97fea0b56645",
+  "bundleUrl": "https://github.com/amir-almsw/orialink-release/releases/download/content-2026-10-08.1/Orialink-content-2026-10-08.1.zip",
+  "files": [
+    {"path": "assets/samples/bank-statement-2026.xml", "bytes": 13628, "sha256": "14e8e270cf693996e915f7a3be16369124fb384b1c0276b2b2d50469ca25a8d3"},
+    {"path": "assets/samples/bank-statement-lisa-2026.xml", "bytes": 7270, "sha256": "b3a1ab6d7948e37d0fef64bc413e947fe5c7dadfc6b0328eee7f9eed059d35c8"},
+    {"path": "assets/samples/invoice-2026.xml", "bytes": 934, "sha256": "07bdb05c88392a38c611d85a4aade337891cb0087d509a95ad1de275a261488a"},
+    {"path": "assets/samples/payslip-acme-2026.pdf", "bytes": 725, "sha256": "9162e3b5730baa590cf32d8dac1067af0784141f255805292f972fca7e0ba09b"},
+    {"path": "assets/samples/payslip-freelance-2026.pdf", "bytes": 731, "sha256": "3f8c484addf4e21d6f8229d34b8846c9073d9de1b1651034439860831be1467a"},
+    {"path": "assets/samples/payslip-scanned.pdf", "bytes": 1186, "sha256": "4cfa90a11ba7593959c3108bdff0ddbfffbd29c6d6422134382018a00607e7f7"},
+    {"path": "assets/samples/payslip-zorg-2026.pdf", "bytes": 733, "sha256": "e3bf8d5e305e251594a0aa751043ee387f1287b35099e3fb9976892256570480"},
+    {"path": "data/laws/benefits/alleenstaande_ouderenkorting.json", "bytes": 1092, "sha256": "1b27c46d01a05aea2abcc94e323cfd2579ae88386e1518c956448887781755f4"},
+    {"path": "data/laws/benefits/iack.json", "bytes": 1891, "sha256": "2e5b1b414e61fe2c8a8c8bdd1d2c05c5fb0908bc37b5a035a7abaec2b5f5a365"},
+    {"path": "data/laws/benefits/kindgebonden_budget.json", "bytes": 3687, "sha256": "d480038f3930eb586bdeb9874f44d7e522f3589e2518f6c795b2d60a24a7def4"},
+    {"path": "data/laws/benefits/ouderenkorting.json", "bytes": 1330, "sha256": "268b54043007d90608712adf27fdbd3b1e029c942f4842e9df4dde93cec9373d"},
+    {"path": "data/laws/benefits/zorgtoeslag.json", "bytes": 1977, "sha256": "4353e06ad7686a52158a640833be9e9282cf0085cac3a72476cfe2df915ba42e"},
+    {"path": "data/laws/inkomstenbelasting.subset.json", "bytes": 14009, "sha256": "6383ae4e204050358ed7eacaa321131faf4d5510b41e72350caf6c9260d51375"},
+    {"path": "data/laws/schema.json", "bytes": 6805, "sha256": "9717b09b8e63dca5c327d175ea3053965bf8e52b190a96277ff8492675cf60e3"}
+  ]
+}
