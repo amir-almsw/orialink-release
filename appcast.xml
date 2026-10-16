@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Orialink</title>
         <item>
-            <title>1.4.7</title>
-            <pubDate>Fri, 16 Oct 2026 20:14:45 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <title>1.4.8</title>
+            <pubDate>Fri, 16 Oct 2026 20:28:03 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="ymT4ojZ1Yd0fZ31RNvl/ldLLJdab/cd3BGmjUQKJ/kPiLF8bcxb8uAbv3CxlP7kKhxzge3NYAWPNwFpkrqS6AQ==" sparkle:length="942">https://raw.githubusercontent.com/amir-almsw/orialink-release/main/Orialink-1.4.7.md</sparkle:releaseNotesLink>
-            <enclosure url="https://api.github.com/repos/amir-almsw/orialink-artifacts/releases/assets/648178191" length="19247976" type="application/octet-stream" sparkle:edSignature="cjtg/XiNJZlfos3mIIoAKvtiZqBtfoEC9MQTZJbc7llOYSBxh+QszUxL9cFRinWQ6BVUYPWpXgnfzUu4Mpv1AQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="WIgxOfTlKO/K4AO4OhVY4i/Gs95t+8m3A+mIl9wF+I9ExTsjAstyNVaWYQ1K0byxWUmcpzCrDqDcqHu3e4MKCw==" sparkle:length="942">https://raw.githubusercontent.com/amir-almsw/orialink-release/main/Orialink-1.4.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://api.github.com/repos/amir-almsw/orialink-artifacts/releases/assets/648212882" length="19248542" type="application/octet-stream" sparkle:edSignature="bRbgk/3sa9c2TB+cSIUOTW/91sQ46AKulFE/ERZvu63/cO+C6SLUeLFijT+6OUdQaoLocZAyC2AsKOuCr7v6AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Llk5dxTMoUCBVq0vXA/PH7mONDedNwXqedAngjTiSr3SlByoJwoOLnp/r99QEg2ep8acEplpE/oyrr2ATee7Dw==
+edSignature: apz8/Dsp4yWV25DiW0pipMxP1eTANKYSzqvI/s9TNdybzL6WE6qgfCv2XPaXUFKyII5IjC4CT64kHMEZOSujDQ==
 length: 1408
 -->
