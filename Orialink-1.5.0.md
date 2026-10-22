@@ -1,11 +1,11 @@
 <!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires updating signatures in appcasts that reference this file! This will involve re-running generate_appcast or sign_update.
 -->
-# Orialink 1.4.8
+# Orialink 1.5.0
 
 - Content revision: 2026-10-10.3
-- Update payload: `Orialink-1.4.8.zip` (sha256 540e99ba0c4aa4c2c2b41b911e3026b9ecfe9d88b4e0d9cca7c9a8fc76ec9b0d)
-- First install: `Orialink-1.4.8.dmg` (sha256 15b6d4c8c08ae4389137e17b5cdbe25c1dad1cabc80f73dbc00f3b2570a770fb)
+- Update payload: `Orialink-1.5.0.zip` (sha256 a2da30105913793d8a6f26ea6a836a6847eddfc0ea09a852120ad314847d40f0)
+- First install: `Orialink-1.5.0.dmg` (sha256 bb9185b1d6554833cad6f3d939ca8ae284ed81fe304f876af4857cd06795ad99)
 - Content bundle: `Orialink-content-2026-10-10.3.zip` (sha256 25ce7accdc4ea733b7916960c7324744bc611bb11ba830a1d684529825842aad)
 - Feed: https://raw.githubusercontent.com/amir-almsw/orialink-release/main/appcast.xml
 - Content manifest: https://api.github.com/repos/amir-almsw/orialink-artifacts/contents/content.json
