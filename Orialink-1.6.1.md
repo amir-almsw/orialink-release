@@ -1,12 +1,12 @@
 <!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires updating signatures in appcasts that reference this file! This will involve re-running generate_appcast or sign_update.
 -->
-# Orialink 1.6.0
+# Orialink 1.6.1
 
-- Content revision: 2026-10-10.3
-- Update payload: `Orialink-1.6.0.zip` (sha256 fd5a1e546d1abd725d3a6e432cc46e400f3721d431c2e1b06eee510340be8ad3)
-- First install: `Orialink-1.6.0.dmg` (sha256 794a11a7a12a734eb0fa39fabe46879c5915945a8a79e4077fd559ca7c05e414)
-- Content bundle: `Orialink-content-2026-10-10.3.zip` (sha256 25ce7accdc4ea733b7916960c7324744bc611bb11ba830a1d684529825842aad)
+- Content revision: 2026-10-26.1
+- Update payload: `Orialink-1.6.1.zip` (sha256 5f774b18603d4bfda141dc1f153b78e8abcabb1035eb126de34e95d88e3d5174)
+- First install: `Orialink-1.6.1.dmg` (sha256 e638668f1903c7b57050e7259af2f3e0b0dd56ef597156aeb5f9ab5d44ce951b)
+- Content bundle: `Orialink-content-2026-10-26.1.zip` (sha256 de69e510ac361d1de558bbdf855648d28bb274ef08796f495b8f2c31bf5e829f)
 - Feed: https://raw.githubusercontent.com/amir-almsw/orialink-release/main/appcast.xml
 - Content manifest: https://api.github.com/repos/amir-almsw/orialink-artifacts/contents/content.json
 - Ad-hoc signed (no Developer ID): a first install needs the one-time
